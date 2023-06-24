@@ -25,6 +25,6 @@ I would like to thank the UCI Machine Learning Repository for providing the Adul
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 # Contact
-For any questions or inquiries, please contact talok724email@.com
+For any questions or inquiries, please contact talok724gmail@.com
 
 Enjoy exploring the Adult Census Income Prediction project!
